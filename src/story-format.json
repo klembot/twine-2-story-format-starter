@@ -1,0 +1,9 @@
+{
+	"author": "Your Name",
+	"description": "This is a description of the story format.",
+	"image": "logo.svg",
+	"license": "MIT",
+	"name": "Story Format Start",
+	"proofing": false,
+	"version": "1.0.0"
+}
